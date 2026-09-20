@@ -72,3 +72,6 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 
 plt.savefig("anomaly_graph.png")
+
+
+#DATA -> df = pd.DataFrame(Data) -> Statistics - df.describe() -> Threshold - define -> df[anomaly] -> print

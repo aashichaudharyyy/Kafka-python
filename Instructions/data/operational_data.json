@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp": "10:00",
+    "cpu": 45,
+    "memory": 55,
+    "latency": 110,
+    "error_rate": 0.5
+  },
+  {
+    "timestamp": "10:01",
+    "cpu": 52,
+    "memory": 58,
+    "latency": 125,
+    "error_rate": 0.8
+  },
+  {
+    "timestamp": "10:02",
+    "cpu": 95,
+    "memory": 68,
+    "latency": 650,
+    "error_rate": 9.4
+  },
+  {
+    "timestamp": "10:03",
+    "cpu": 48,
+    "memory": 52,
+    "latency": 115,
+    "error_rate": 0.6
+  },
+  {
+    "timestamp": "10:04",
+    "cpu": 92,
+    "memory": 74,
+    "latency": 580,
+    "error_rate": 7.2
+  }
+]

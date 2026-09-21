@@ -1,0 +1,10 @@
+INFO Application started
+INFO Request processed
+INFO Worker pool initialized
+WARN CPU usage exceeded expected range
+INFO Periodic healthcheck OK
+ERROR Database connection failed
+INFO Retrying connection
+ERROR Service unavailable
+INFO Request processed
+WARN High latency detected on /api/v1/metrics
